@@ -12,5 +12,6 @@ Gameversion:
 
 Instruction:
 
-1. Start your Game and wait until your savegame or your new map finished loading
-2. push the button in the trainer for adding money or max. out your dev. points.
+1. Download and unzip the downloaded zip-file.
+2. Start your Game and wait until your savegame or your new map finished loading.
+3. push the button in the trainer for adding money or max. out your dev. points.
